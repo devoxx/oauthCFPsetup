@@ -1,2 +1,1 @@
-# oauthCFPsetup
-The OAuth 2.0 CFP configuration
+Surf to wiki page for full details: https://github.com/devoxx/oauthCFPsetup/wiki 
